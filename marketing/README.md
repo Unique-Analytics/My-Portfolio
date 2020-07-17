@@ -7,17 +7,17 @@ This Audience Profile Map was designed based on a request that i recieved from a
 I did provide them with this information, but i could not find any one source or dataset that i could use to provide them with a report. So I ended up doing a custom report but it took quite sometime to research and attain the data, but it got done.  At that point i knew there was a need and based on my research decided to fullfill that need in the form of an Audience Profile Map, that includes detail demographics, lifestyle and environment data by geographic DMA as well as Facebook DMA.
 
 
-## Implementation Phases
-1. Located multiple sites that contain demographics, lifestyle, environment, facebook data that i wanted to include in my dataset. 90% of the data i found was unstructured data.
-2. Once i located the sites, i began to create various scripts that would scrape, clean and prepare the data.
-3. I then created the scripts that would join the data from the different sites into one dataset.
-4. There were a few external datasets i had to intergrate as well. Datasets such as longitude and lattitude, lifestyle categories, etc.  
-5. So the final datset was exported to .csv and then used in my visualization application to which i use internal for my business. 
+## Implementation Process
+1. First i located multiple sites that contain demographics, lifestyle, environment, facebook data that i wanted to include in my dataset. 90% of the data i found was unstructured data.
+2. Once i located the sites, i began to create various scripts that would scrape, clean and prepare the dataset for visualization in a map application.
+3. I then created the scripts that were needed to join the data from the different sites into one dataset.
+4. There were a few external datasets i had to integrate into the final dataset. One being a longitude and lattitude dataset.
+5. So the final datset was exported to .csv and then used in my visualization application to which i use internally for my business. 
 
-So now when customers request this informaton, it will only take me a matter of minutes to fulfill their request.
+Now when customers request this informaton, it only takes me a matter of minutes to fulfill their request.
 
 ## Features
-1. A interactive map that can be filter/search on using different variables.
+1. A interactive map that can be filtered and searched upon using different variables.
 2. Detailed Demographic data for each DMA region.
 3. Detail lifestyle data for each DMA region.
 4. Detail environmental data for each DMA region.
