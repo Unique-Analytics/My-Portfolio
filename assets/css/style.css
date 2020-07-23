@@ -126,6 +126,12 @@ h6 {
   display: table;
   clear: both;
 }
+
+.row {
+margin-left: 20%;  
+}
+
+
 /* Style the buttons 
 .btn {
   border: none;
