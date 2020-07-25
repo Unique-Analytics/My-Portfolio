@@ -146,10 +146,11 @@ h7 {
   font-size: 18px;
 }
 
-.price li {
+.price p {
   border-bottom: 1px solid #eee;
   padding: 20px;
   text-align: center;
+    font-size: 12px;
 }
 
 .price .grey {
