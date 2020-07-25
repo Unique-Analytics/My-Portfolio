@@ -159,6 +159,8 @@ h7 {
 .price .grey {
   background-color: #eee;
   font-size: 20px;
+   margin-left: 5%;
+   height: 50px;
 }
 
 .button2 {
