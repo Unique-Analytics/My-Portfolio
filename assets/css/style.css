@@ -124,6 +124,7 @@ h7 {
 .column2 {
   float: left;
   width: 25%;
+   height: 800px;
   padding: 8px;
 }
 
