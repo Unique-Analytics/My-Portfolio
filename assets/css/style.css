@@ -131,7 +131,7 @@ h7 {
 .price {
   list-style-type: none;
   border: 1px solid #eee;
-  margin: 0;
+  margin-left: 5%;
   padding: 0;
   -webkit-transition: 0.3s;
   transition: 0.3s;
