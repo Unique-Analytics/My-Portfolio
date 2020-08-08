@@ -35,7 +35,7 @@ The dashboard answers the following questions:
 From start to finish, this project took about 4 weeks to complete. This is dependent on how accessible the customer is to provide feedback.
 
 ## Screenshots
-![Alt text](/data_visualizations/movieAnalysis.PNG?raw=true "Film Analysis Dashboard")
+![Alt text](/data_visualizations/movieanalysis.PNG?raw=true "Film Analysis Dashboard")
 
 ## Technologies Used
 1. R for the api integration of ML Azure Predictive Analytics
