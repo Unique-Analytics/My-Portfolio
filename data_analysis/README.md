@@ -38,7 +38,7 @@ From start to finish, this script took about 1 week to develop. This was depende
 1. R is used for development and Power BI is used for diplaying the data.
 
 ## License
-Due to  privacy, i cannot diplay the final dashboard, but i did provide some of the code used to do the analysis.
+Due to  privacy, i cannot display the final dashboard, but i did provide some of the code used to do the analysis.
 
 
 
